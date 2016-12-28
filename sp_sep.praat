@@ -230,12 +230,15 @@ for fcall from 1 to number_of_inputfiles
 			for i from 1 to intnum
 				label$ = Get label of interval: 1, i
 				if label$ = speaker$
-					p = p + 1
 					start = Get start point: 1, i
 					end = Get end point: 1, i
-					select LongSound 'name$'
-					Extract part: start, end, "no"
-					Rename: "part'p'"
+					dur = end - start
+					if dur > 0.1
+						select LongSound 'name$'
+						Extract part: start, end, "no"
+						p = p + 1
+						Rename: "part'p'"
+					endif
 					select spText
 				endif
 			endfor
