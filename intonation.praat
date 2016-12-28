@@ -12,10 +12,14 @@ endform
 
 input_path$ = "input"
 logfile$ = "log.txt"
+f0ranges$ = "f0ranges.txt"
 if fileReadable (logfile$) 
 	deleteFile: logfile$
 endif
-
+if fileReadable (f0ranges$)
+else
+	writeFileLine: f0ranges$, "FILE",tab$,"SPEAKER",tab$,"MIN",tab$,"MAX",tab$,"MEAN",tab$,"STDEV",tab$,"T1",tab$,"T2",tab$,"T3",tab$,"T4"
+endif
 # Open audio file(s)
 
 Create Strings as file list: "wavList", input_path$ + "/*.wav"
@@ -140,6 +144,7 @@ for fcall from 1 to number_of_inputfiles
 				system_nocheck mkdir "output/'name$'/'speaker$'"	
 			endif
 			appendFileLine: "output/'name$'/pitchranges.txt", speaker$,tab$,round(min_f0),tab$,round(max_f0),tab$,round(meanf0),tab$,round(stdev),tab$,round(divf0range1),tab$,round(divf0range2),tab$,round(divf0range3),tab$,round(divf0range4)
+			appendFileLine: f0ranges$, name$,tab$,speaker$,tab$,round(min_f0),tab$,round(max_f0),tab$,round(meanf0),tab$,round(stdev),tab$,round(divf0range1),tab$,round(divf0range2),tab$,round(divf0range3),tab$,round(divf0range4)
 			
 			# Open annotations
 			
