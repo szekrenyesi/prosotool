@@ -1,0 +1,66 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 46.802031746031744 
+xmax = 48.98603174603174 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "vuv" 
+        xmin = 46.802031746031744 
+        xmax = 48.98603174603174 
+        intervals: size = 13 
+        intervals [1]:
+            xmin = 46.802031746031744 
+            xmax = 46.81130316847337 
+            text = "U" 
+        intervals [2]:
+            xmin = 46.81130316847337 
+            xmax = 47.07752042200834 
+            text = "V" 
+        intervals [3]:
+            xmin = 47.07752042200834 
+            xmax = 47.10654595923292 
+            text = "U" 
+        intervals [4]:
+            xmin = 47.10654595923292 
+            xmax = 47.41032594709654 
+            text = "V" 
+        intervals [5]:
+            xmin = 47.41032594709654 
+            xmax = 47.58892993296572 
+            text = "U" 
+        intervals [6]:
+            xmin = 47.58892993296572 
+            xmax = 47.96347313342393 
+            text = "V" 
+        intervals [7]:
+            xmin = 47.96347313342393 
+            xmax = 48.08914098991842 
+            text = "U" 
+        intervals [8]:
+            xmin = 48.08914098991842 
+            xmax = 48.60596541607682 
+            text = "V" 
+        intervals [9]:
+            xmin = 48.60596541607682 
+            xmax = 48.66401270913984 
+            text = "U" 
+        intervals [10]:
+            xmin = 48.66401270913984 
+            xmax = 48.75556337797182 
+            text = "V" 
+        intervals [11]:
+            xmin = 48.75556337797182 
+            xmax = 48.82796733767023 
+            text = "U" 
+        intervals [12]:
+            xmin = 48.82796733767023 
+            xmax = 48.97206013018012 
+            text = "V" 
+        intervals [13]:
+            xmin = 48.97206013018012 
+            xmax = 48.98603174603174 
+            text = "U" 

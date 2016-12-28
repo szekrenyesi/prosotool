@@ -1,0 +1,1388 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 50.05204081632653 
+tiers? <exists> 
+size = 8 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "speakerA_F0Mov" 
+        xmin = 0 
+        xmax = 50.05204081632653 
+        intervals: size = 42 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.7017006802721089 
+            text = "" 
+        intervals [2]:
+            xmin = 0.7017006802721089 
+            xmax = 0.9017006802721088 
+            text = "fall" 
+        intervals [3]:
+            xmin = 0.9017006802721088 
+            xmax = 1.685034013605442 
+            text = "descending" 
+        intervals [4]:
+            xmin = 1.685034013605442 
+            xmax = 2.0529535147392295 
+            text = "" 
+        intervals [5]:
+            xmin = 2.0529535147392295 
+            xmax = 3.0529535147392295 
+            text = "level" 
+        intervals [6]:
+            xmin = 3.0529535147392295 
+            xmax = 3.7150226757369618 
+            text = "" 
+        intervals [7]:
+            xmin = 3.7150226757369618 
+            xmax = 4.7233560090702955 
+            text = "rise" 
+        intervals [8]:
+            xmin = 4.7233560090702955 
+            xmax = 5.0983560090702955 
+            text = "fall" 
+        intervals [9]:
+            xmin = 5.0983560090702955 
+            xmax = 6.288066893424037 
+            text = "" 
+        intervals [10]:
+            xmin = 6.288066893424037 
+            xmax = 7.27140022675737 
+            text = "level" 
+        intervals [11]:
+            xmin = 7.27140022675737 
+            xmax = 7.979733560090703 
+            text = "fall" 
+        intervals [12]:
+            xmin = 7.979733560090703 
+            xmax = 8.750442176870749 
+            text = "" 
+        intervals [13]:
+            xmin = 8.750442176870749 
+            xmax = 9.567108843537415 
+            text = "level" 
+        intervals [14]:
+            xmin = 9.567108843537415 
+            xmax = 9.933775510204082 
+            text = "rise" 
+        intervals [15]:
+            xmin = 9.933775510204082 
+            xmax = 12.067108843537415 
+            text = "descending" 
+        intervals [16]:
+            xmin = 12.067108843537415 
+            xmax = 13.715379818594103 
+            text = "" 
+        intervals [17]:
+            xmin = 13.715379818594103 
+            xmax = 16.55704648526077 
+            text = "level" 
+        intervals [18]:
+            xmin = 16.55704648526077 
+            xmax = 17.37390022675737 
+            text = "" 
+        intervals [19]:
+            xmin = 17.37390022675737 
+            xmax = 18.41556689342404 
+            text = "level" 
+        intervals [20]:
+            xmin = 18.41556689342404 
+            xmax = 19.190566893424037 
+            text = "fall" 
+        intervals [21]:
+            xmin = 19.190566893424037 
+            xmax = 19.490566893424038 
+            text = "rise" 
+        intervals [22]:
+            xmin = 19.490566893424038 
+            xmax = 20.232233560090705 
+            text = "fall" 
+        intervals [23]:
+            xmin = 20.232233560090705 
+            xmax = 20.62854875283447 
+            text = "" 
+        intervals [24]:
+            xmin = 20.62854875283447 
+            xmax = 20.861882086167803 
+            text = "fall" 
+        intervals [25]:
+            xmin = 20.861882086167803 
+            xmax = 22.17905328798186 
+            text = "" 
+        intervals [26]:
+            xmin = 22.17905328798186 
+            xmax = 22.43738662131519 
+            text = "level" 
+        intervals [27]:
+            xmin = 22.43738662131519 
+            xmax = 23.610527210884353 
+            text = "" 
+        intervals [28]:
+            xmin = 23.610527210884353 
+            xmax = 23.85219387755102 
+            text = "ascending" 
+        intervals [29]:
+            xmin = 23.85219387755102 
+            xmax = 41.070391156462584 
+            text = "" 
+        intervals [30]:
+            xmin = 41.070391156462584 
+            xmax = 41.353724489795916 
+            text = "rise" 
+        intervals [31]:
+            xmin = 41.353724489795916 
+            xmax = 41.70372448979592 
+            text = "fall" 
+        intervals [32]:
+            xmin = 41.70372448979592 
+            xmax = 41.98705782312925 
+            text = "ascending" 
+        intervals [33]:
+            xmin = 41.98705782312925 
+            xmax = 42.57872448979592 
+            text = "fall" 
+        intervals [34]:
+            xmin = 42.57872448979592 
+            xmax = 42.820391156462584 
+            text = "rise" 
+        intervals [35]:
+            xmin = 42.820391156462584 
+            xmax = 43.05372448979592 
+            text = "fall" 
+        intervals [36]:
+            xmin = 43.05372448979592 
+            xmax = 43.64539115646259 
+            text = "rise" 
+        intervals [37]:
+            xmin = 43.64539115646259 
+            xmax = 45.27872448979592 
+            text = "fall" 
+        intervals [38]:
+            xmin = 45.27872448979592 
+            xmax = 46.819036281179145 
+            text = "" 
+        intervals [39]:
+            xmin = 46.819036281179145 
+            xmax = 47.96070294784581 
+            text = "fall" 
+        intervals [40]:
+            xmin = 47.96070294784581 
+            xmax = 48.46070294784581 
+            text = "ascending" 
+        intervals [41]:
+            xmin = 48.46070294784581 
+            xmax = 48.96903628117914 
+            text = "fall" 
+        intervals [42]:
+            xmin = 48.96903628117914 
+            xmax = 50.05204081632653 
+            text = "" 
+    item [2]:
+        class = "TextTier" 
+        name = "speakerA_F0Level" 
+        xmin = 0 
+        xmax = 50.05204081632653 
+        points: size = 41 
+        points [1]:
+            number = 0.7017006802721089 
+            mark = "M" 
+        points [2]:
+            number = 0.9017006802721088 
+            mark = "L1" 
+        points [3]:
+            number = 1.685034013605442 
+            mark = "L2" 
+        points [4]:
+            number = 2.0529535147392295 
+            mark = "M" 
+        points [5]:
+            number = 3.0529535147392295 
+            mark = "H1" 
+        points [6]:
+            number = 3.7150226757369618 
+            mark = "M" 
+        points [7]:
+            number = 4.7233560090702955 
+            mark = "H2" 
+        points [8]:
+            number = 5.0983560090702955 
+            mark = "L1" 
+        points [9]:
+            number = 6.288066893424037 
+            mark = "M" 
+        points [10]:
+            number = 7.27140022675737 
+            mark = "M" 
+        points [11]:
+            number = 7.979733560090703 
+            mark = "L1" 
+        points [12]:
+            number = 8.750442176870749 
+            mark = "L1" 
+        points [13]:
+            number = 9.567108843537415 
+            mark = "L1" 
+        points [14]:
+            number = 9.933775510204082 
+            mark = "M" 
+        points [15]:
+            number = 12.067108843537415 
+            mark = "L1" 
+        points [16]:
+            number = 13.715379818594103 
+            mark = "L1" 
+        points [17]:
+            number = 16.55704648526077 
+            mark = "L1" 
+        points [18]:
+            number = 17.37390022675737 
+            mark = "M" 
+        points [19]:
+            number = 18.41556689342404 
+            mark = "H1" 
+        points [20]:
+            number = 19.190566893424037 
+            mark = "L1" 
+        points [21]:
+            number = 19.490566893424038 
+            mark = "M" 
+        points [22]:
+            number = 20.232233560090705 
+            mark = "L1" 
+        points [23]:
+            number = 20.62854875283447 
+            mark = "M" 
+        points [24]:
+            number = 20.861882086167803 
+            mark = "L1" 
+        points [25]:
+            number = 22.17905328798186 
+            mark = "L1" 
+        points [26]:
+            number = 22.43738662131519 
+            mark = "L1" 
+        points [27]:
+            number = 23.610527210884353 
+            mark = "L2" 
+        points [28]:
+            number = 23.85219387755102 
+            mark = "L1" 
+        points [29]:
+            number = 41.070391156462584 
+            mark = "H2" 
+        points [30]:
+            number = 41.353724489795916 
+            mark = "H2" 
+        points [31]:
+            number = 41.70372448979592 
+            mark = "H2" 
+        points [32]:
+            number = 41.98705782312925 
+            mark = "H2" 
+        points [33]:
+            number = 42.57872448979592 
+            mark = "H1" 
+        points [34]:
+            number = 42.820391156462584 
+            mark = "H2" 
+        points [35]:
+            number = 43.05372448979592 
+            mark = "H1" 
+        points [36]:
+            number = 43.64539115646259 
+            mark = "H2" 
+        points [37]:
+            number = 45.27872448979592 
+            mark = "L2" 
+        points [38]:
+            number = 46.819036281179145 
+            mark = "H1" 
+        points [39]:
+            number = 47.96070294784581 
+            mark = "L1" 
+        points [40]:
+            number = 48.46070294784581 
+            mark = "M" 
+        points [41]:
+            number = 48.96903628117914 
+            mark = "L2" 
+    item [3]:
+        class = "TextTier" 
+        name = "speakerA_F0Value" 
+        xmin = 0 
+        xmax = 50.05204081632653 
+        points: size = 41 
+        points [1]:
+            number = 0.7017006802721089 
+            mark = "154.50" 
+        points [2]:
+            number = 0.9017006802721088 
+            mark = "126.83" 
+        points [3]:
+            number = 1.685034013605442 
+            mark = "109.77" 
+        points [4]:
+            number = 2.0529535147392295 
+            mark = "159.34" 
+        points [5]:
+            number = 3.0529535147392295 
+            mark = "174.54" 
+        points [6]:
+            number = 3.7150226757369618 
+            mark = "136.48" 
+        points [7]:
+            number = 4.7233560090702955 
+            mark = "221.04" 
+        points [8]:
+            number = 5.0983560090702955 
+            mark = "118.79" 
+        points [9]:
+            number = 6.288066893424037 
+            mark = "139.98" 
+        points [10]:
+            number = 7.27140022675737 
+            mark = "155.04" 
+        points [11]:
+            number = 7.979733560090703 
+            mark = "135.68" 
+        points [12]:
+            number = 8.750442176870749 
+            mark = "126.29" 
+        points [13]:
+            number = 9.567108843537415 
+            mark = "116.67" 
+        points [14]:
+            number = 9.933775510204082 
+            mark = "150.04" 
+        points [15]:
+            number = 12.067108843537415 
+            mark = "128.48" 
+        points [16]:
+            number = 13.715379818594103 
+            mark = "127.98" 
+        points [17]:
+            number = 16.55704648526077 
+            mark = "113.35" 
+        points [18]:
+            number = 17.37390022675737 
+            mark = "149.47" 
+        points [19]:
+            number = 18.41556689342404 
+            mark = "162.44" 
+        points [20]:
+            number = 19.190566893424037 
+            mark = "131.39" 
+        points [21]:
+            number = 19.490566893424038 
+            mark = "154.86" 
+        points [22]:
+            number = 20.232233560090705 
+            mark = "127.88" 
+        points [23]:
+            number = 20.62854875283447 
+            mark = "158.74" 
+        points [24]:
+            number = 20.861882086167803 
+            mark = "133.70" 
+        points [25]:
+            number = 22.17905328798186 
+            mark = "119.49" 
+        points [26]:
+            number = 22.43738662131519 
+            mark = "117.96" 
+        points [27]:
+            number = 23.610527210884353 
+            mark = "110.20" 
+        points [28]:
+            number = 23.85219387755102 
+            mark = "114.59" 
+        points [29]:
+            number = 41.070391156462584 
+            mark = "198.34" 
+        points [30]:
+            number = 41.353724489795916 
+            mark = "244.15" 
+        points [31]:
+            number = 41.70372448979592 
+            mark = "192.29" 
+        points [32]:
+            number = 41.98705782312925 
+            mark = "208.72" 
+        points [33]:
+            number = 42.57872448979592 
+            mark = "162.74" 
+        points [34]:
+            number = 42.820391156462584 
+            mark = "188.65" 
+        points [35]:
+            number = 43.05372448979592 
+            mark = "160.24" 
+        points [36]:
+            number = 43.64539115646259 
+            mark = "202.86" 
+        points [37]:
+            number = 45.27872448979592 
+            mark = "107.46" 
+        points [38]:
+            number = 46.819036281179145 
+            mark = "179.14" 
+        points [39]:
+            number = 47.96070294784581 
+            mark = "122.29" 
+        points [40]:
+            number = 48.46070294784581 
+            mark = "137.71" 
+        points [41]:
+            number = 48.96903628117914 
+            mark = "105.02" 
+    item [4]:
+        class = "IntervalTier" 
+        name = "speakerA_Voice" 
+        xmin = 0 
+        xmax = 50.05204081632653 
+        intervals: size = 106 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.6978997584077581 
+            text = "" 
+        intervals [2]:
+            xmin = 0.6978997584077581 
+            xmax = 1.6864496715539108 
+            text = "V" 
+        intervals [3]:
+            xmin = 1.6864496715539108 
+            xmax = 2.0463383568400797 
+            text = "" 
+        intervals [4]:
+            xmin = 2.0463383568400797 
+            xmax = 2.2101641954582343 
+            text = "V" 
+        intervals [5]:
+            xmin = 2.2101641954582343 
+            xmax = 2.262210199857396 
+            text = "U" 
+        intervals [6]:
+            xmin = 2.262210199857396 
+            xmax = 2.324673462092967 
+            text = "V" 
+        intervals [7]:
+            xmin = 2.324673462092967 
+            xmax = 2.565871683203952 
+            text = "U" 
+        intervals [8]:
+            xmin = 2.565871683203952 
+            xmax = 2.7412286602231277 
+            text = "V" 
+        intervals [9]:
+            xmin = 2.7412286602231277 
+            xmax = 2.8156228270166754 
+            text = "U" 
+        intervals [10]:
+            xmin = 2.8156228270166754 
+            xmax = 3.0584455080967885 
+            text = "V" 
+        intervals [11]:
+            xmin = 3.0584455080967885 
+            xmax = 3.711851459603885 
+            text = "" 
+        intervals [12]:
+            xmin = 3.711851459603885 
+            xmax = 3.993601060962344 
+            text = "V" 
+        intervals [13]:
+            xmin = 3.993601060962344 
+            xmax = 4.03112350328888 
+            text = "U" 
+        intervals [14]:
+            xmin = 4.03112350328888 
+            xmax = 4.401768309934842 
+            text = "V" 
+        intervals [15]:
+            xmin = 4.401768309934842 
+            xmax = 4.7146553612258915 
+            text = "U" 
+        intervals [16]:
+            xmin = 4.7146553612258915 
+            xmax = 4.822518338298207 
+            text = "V" 
+        intervals [17]:
+            xmin = 4.822518338298207 
+            xmax = 4.9151997271140955 
+            text = "U" 
+        intervals [18]:
+            xmin = 4.9151997271140955 
+            xmax = 5.101100063647843 
+            text = "V" 
+        intervals [19]:
+            xmin = 5.101100063647843 
+            xmax = 6.283578795098164 
+            text = "" 
+        intervals [20]:
+            xmin = 6.283578795098164 
+            xmax = 6.371363934674988 
+            text = "V" 
+        intervals [21]:
+            xmin = 6.371363934674988 
+            xmax = 6.552147375480597 
+            text = "U" 
+        intervals [22]:
+            xmin = 6.552147375480597 
+            xmax = 6.8304553027631885 
+            text = "V" 
+        intervals [23]:
+            xmin = 6.8304553027631885 
+            xmax = 7.071195225291453 
+            text = "U" 
+        intervals [24]:
+            xmin = 7.071195225291453 
+            xmax = 7.222033322016659 
+            text = "V" 
+        intervals [25]:
+            xmin = 7.222033322016659 
+            xmax = 7.265584292746632 
+            text = "U" 
+        intervals [26]:
+            xmin = 7.265584292746632 
+            xmax = 7.336530261012723 
+            text = "V" 
+        intervals [27]:
+            xmin = 7.336530261012723 
+            xmax = 7.418252995615311 
+            text = "U" 
+        intervals [28]:
+            xmin = 7.418252995615311 
+            xmax = 7.570157762502279 
+            text = "V" 
+        intervals [29]:
+            xmin = 7.570157762502279 
+            xmax = 7.6850308988426725 
+            text = "U" 
+        intervals [30]:
+            xmin = 7.6850308988426725 
+            xmax = 7.9839133205265975 
+            text = "V" 
+        intervals [31]:
+            xmin = 7.9839133205265975 
+            xmax = 8.744894029526812 
+            text = "" 
+        intervals [32]:
+            xmin = 8.744894029526812 
+            xmax = 8.835249386949505 
+            text = "V" 
+        intervals [33]:
+            xmin = 8.835249386949505 
+            xmax = 8.881008661528105 
+            text = "U" 
+        intervals [34]:
+            xmin = 8.881008661528105 
+            xmax = 9.710911666020941 
+            text = "V" 
+        intervals [35]:
+            xmin = 9.710911666020941 
+            xmax = 9.781952339689331 
+            text = "U" 
+        intervals [36]:
+            xmin = 9.781952339689331 
+            xmax = 10.045436025067378 
+            text = "V" 
+        intervals [37]:
+            xmin = 10.045436025067378 
+            xmax = 10.105583759707649 
+            text = "U" 
+        intervals [38]:
+            xmin = 10.105583759707649 
+            xmax = 11.336818157538247 
+            text = "V" 
+        intervals [39]:
+            xmin = 11.336818157538247 
+            xmax = 11.469297280205387 
+            text = "U" 
+        intervals [40]:
+            xmin = 11.469297280205387 
+            xmax = 11.497400983310213 
+            text = "V" 
+        intervals [41]:
+            xmin = 11.497400983310213 
+            xmax = 11.535026079280657 
+            text = "U" 
+        intervals [42]:
+            xmin = 11.535026079280657 
+            xmax = 12.070183524667215 
+            text = "V" 
+        intervals [43]:
+            xmin = 12.070183524667215 
+            xmax = 13.712574055889561 
+            text = "" 
+        intervals [44]:
+            xmin = 13.712574055889561 
+            xmax = 13.921864769307524 
+            text = "V" 
+        intervals [45]:
+            xmin = 13.921864769307524 
+            xmax = 13.950039390814057 
+            text = "U" 
+        intervals [46]:
+            xmin = 13.950039390814057 
+            xmax = 14.886447683682011 
+            text = "V" 
+        intervals [47]:
+            xmin = 14.886447683682011 
+            xmax = 14.914935464109337 
+            text = "U" 
+        intervals [48]:
+            xmin = 14.914935464109337 
+            xmax = 15.502117962567565 
+            text = "V" 
+        intervals [49]:
+            xmin = 15.502117962567565 
+            xmax = 15.804844563838861 
+            text = "U" 
+        intervals [50]:
+            xmin = 15.804844563838861 
+            xmax = 15.987676143285835 
+            text = "V" 
+        intervals [51]:
+            xmin = 15.987676143285835 
+            xmax = 16.08269534985329 
+            text = "U" 
+        intervals [52]:
+            xmin = 16.08269534985329 
+            xmax = 16.560510134042662 
+            text = "V" 
+        intervals [53]:
+            xmin = 16.560510134042662 
+            xmax = 17.367159938198174 
+            text = "" 
+        intervals [54]:
+            xmin = 17.367159938198174 
+            xmax = 19.08855531523124 
+            text = "V" 
+        intervals [55]:
+            xmin = 19.08855531523124 
+            xmax = 19.18256030730636 
+            text = "U" 
+        intervals [56]:
+            xmin = 19.18256030730636 
+            xmax = 19.236017087374634 
+            text = "V" 
+        intervals [57]:
+            xmin = 19.236017087374634 
+            xmax = 19.286317397656404 
+            text = "U" 
+        intervals [58]:
+            xmin = 19.286317397656404 
+            xmax = 20.23724587729543 
+            text = "V" 
+        intervals [59]:
+            xmin = 20.23724587729543 
+            xmax = 20.623499696070727 
+            text = "" 
+        intervals [60]:
+            xmin = 20.623499696070727 
+            xmax = 20.869692043737587 
+            text = "V" 
+        intervals [61]:
+            xmin = 20.869692043737587 
+            xmax = 22.17498104973444 
+            text = "" 
+        intervals [62]:
+            xmin = 22.17498104973444 
+            xmax = 22.24866476053065 
+            text = "V" 
+        intervals [63]:
+            xmin = 22.24866476053065 
+            xmax = 22.279562369063484 
+            text = "U" 
+        intervals [64]:
+            xmin = 22.279562369063484 
+            xmax = 22.437275499713706 
+            text = "V" 
+        intervals [65]:
+            xmin = 22.437275499713706 
+            xmax = 22.45772754271373 
+            text = "U" 
+        intervals [66]:
+            xmin = 22.45772754271373 
+            xmax = 23.605129276868812 
+            text = "" 
+        intervals [67]:
+            xmin = 23.605129276868812 
+            xmax = 23.853768123369896 
+            text = "V" 
+        intervals [68]:
+            xmin = 23.853768123369896 
+            xmax = 41.066122737789286 
+            text = "" 
+        intervals [69]:
+            xmin = 41.066122737789286 
+            xmax = 41.31007304215868 
+            text = "V" 
+        intervals [70]:
+            xmin = 41.31007304215868 
+            xmax = 41.34506196350591 
+            text = "U" 
+        intervals [71]:
+            xmin = 41.34506196350591 
+            xmax = 41.51262920284544 
+            text = "V" 
+        intervals [72]:
+            xmin = 41.51262920284544 
+            xmax = 41.53717857082357 
+            text = "U" 
+        intervals [73]:
+            xmin = 41.53717857082357 
+            xmax = 41.71248690194023 
+            text = "V" 
+        intervals [74]:
+            xmin = 41.71248690194023 
+            xmax = 41.82273711776998 
+            text = "U" 
+        intervals [75]:
+            xmin = 41.82273711776998 
+            xmax = 41.99326111941812 
+            text = "V" 
+        intervals [76]:
+            xmin = 41.99326111941812 
+            xmax = 42.08203108498365 
+            text = "U" 
+        intervals [77]:
+            xmin = 42.08203108498365 
+            xmax = 42.433321980970426 
+            text = "V" 
+        intervals [78]:
+            xmin = 42.433321980970426 
+            xmax = 42.49706828025763 
+            text = "U" 
+        intervals [79]:
+            xmin = 42.49706828025763 
+            xmax = 42.64760098720931 
+            text = "V" 
+        intervals [80]:
+            xmin = 42.64760098720931 
+            xmax = 42.658034472433286 
+            text = "U" 
+        intervals [81]:
+            xmin = 42.658034472433286 
+            xmax = 43.05899417793623 
+            text = "V" 
+        intervals [82]:
+            xmin = 43.05899417793623 
+            xmax = 43.17831491312693 
+            text = "U" 
+        intervals [83]:
+            xmin = 43.17831491312693 
+            xmax = 43.55903151887905 
+            text = "V" 
+        intervals [84]:
+            xmin = 43.55903151887905 
+            xmax = 43.639029742020874 
+            text = "U" 
+        intervals [85]:
+            xmin = 43.639029742020874 
+            xmax = 44.02055747064622 
+            text = "V" 
+        intervals [86]:
+            xmin = 44.02055747064622 
+            xmax = 44.0653547315363 
+            text = "U" 
+        intervals [87]:
+            xmin = 44.0653547315363 
+            xmax = 44.0868293950648 
+            text = "V" 
+        intervals [88]:
+            xmin = 44.0868293950648 
+            xmax = 44.124151747790584 
+            text = "U" 
+        intervals [89]:
+            xmin = 44.124151747790584 
+            xmax = 44.85035005082052 
+            text = "V" 
+        intervals [90]:
+            xmin = 44.85035005082052 
+            xmax = 44.900922209205255 
+            text = "U" 
+        intervals [91]:
+            xmin = 44.900922209205255 
+            xmax = 45.159787437578274 
+            text = "V" 
+        intervals [92]:
+            xmin = 45.159787437578274 
+            xmax = 45.177285980768715 
+            text = "U" 
+        intervals [93]:
+            xmin = 45.177285980768715 
+            xmax = 45.28124072283748 
+            text = "V" 
+        intervals [94]:
+            xmin = 45.28124072283748 
+            xmax = 46.81130316847337 
+            text = "" 
+        intervals [95]:
+            xmin = 46.81130316847337 
+            xmax = 47.07752042200834 
+            text = "V" 
+        intervals [96]:
+            xmin = 47.07752042200834 
+            xmax = 47.10654595923292 
+            text = "U" 
+        intervals [97]:
+            xmin = 47.10654595923292 
+            xmax = 47.41032594709654 
+            text = "V" 
+        intervals [98]:
+            xmin = 47.41032594709654 
+            xmax = 47.58892993296572 
+            text = "U" 
+        intervals [99]:
+            xmin = 47.58892993296572 
+            xmax = 47.96347313342393 
+            text = "V" 
+        intervals [100]:
+            xmin = 47.96347313342393 
+            xmax = 48.08914098991842 
+            text = "U" 
+        intervals [101]:
+            xmin = 48.08914098991842 
+            xmax = 48.60596541607682 
+            text = "V" 
+        intervals [102]:
+            xmin = 48.60596541607682 
+            xmax = 48.66401270913984 
+            text = "U" 
+        intervals [103]:
+            xmin = 48.66401270913984 
+            xmax = 48.75556337797182 
+            text = "V" 
+        intervals [104]:
+            xmin = 48.75556337797182 
+            xmax = 48.82796733767023 
+            text = "U" 
+        intervals [105]:
+            xmin = 48.82796733767023 
+            xmax = 48.97206013018012 
+            text = "V" 
+        intervals [106]:
+            xmin = 48.97206013018012 
+            xmax = 50.05204081632653 
+            text = "" 
+    item [5]:
+        class = "IntervalTier" 
+        name = "speakerB_F0Mov" 
+        xmin = 0 
+        xmax = 50.05204081632653 
+        intervals: size = 24 
+        intervals [1]:
+            xmin = 0 
+            xmax = 5.814339826839827 
+            text = "" 
+        intervals [2]:
+            xmin = 5.814339826839827 
+            xmax = 6.2166125541125545 
+            text = "rise" 
+        intervals [3]:
+            xmin = 6.2166125541125545 
+            xmax = 22.92428159142445 
+            text = "" 
+        intervals [4]:
+            xmin = 22.92428159142445 
+            xmax = 23.237917955060812 
+            text = "fall" 
+        intervals [5]:
+            xmin = 23.237917955060812 
+            xmax = 24.255665842094416 
+            text = "" 
+        intervals [6]:
+            xmin = 24.255665842094416 
+            xmax = 24.97839311482169 
+            text = "fall" 
+        intervals [7]:
+            xmin = 24.97839311482169 
+            xmax = 26.110746237889096 
+            text = "" 
+        intervals [8]:
+            xmin = 26.110746237889096 
+            xmax = 26.49256441970728 
+            text = "ascending" 
+        intervals [9]:
+            xmin = 26.49256441970728 
+            xmax = 27.81762265512266 
+            text = "" 
+        intervals [10]:
+            xmin = 27.81762265512266 
+            xmax = 28.444895382395387 
+            text = "fall" 
+        intervals [11]:
+            xmin = 28.444895382395387 
+            xmax = 28.847168109668115 
+            text = "rise" 
+        intervals [12]:
+            xmin = 28.847168109668115 
+            xmax = 30.285804473304477 
+            text = "level" 
+        intervals [13]:
+            xmin = 30.285804473304477 
+            xmax = 31.27444083694084 
+            text = "fall" 
+        intervals [14]:
+            xmin = 31.27444083694084 
+            xmax = 32.544895382395374 
+            text = "" 
+        intervals [15]:
+            xmin = 32.544895382395374 
+            xmax = 32.97444083694083 
+            text = "fall" 
+        intervals [16]:
+            xmin = 32.97444083694083 
+            xmax = 33.3221681096681 
+            text = "descending" 
+        intervals [17]:
+            xmin = 33.3221681096681 
+            xmax = 34.54944083694083 
+            text = "rise" 
+        intervals [18]:
+            xmin = 34.54944083694083 
+            xmax = 35.14262265512265 
+            text = "fall" 
+        intervals [19]:
+            xmin = 35.14262265512265 
+            xmax = 36.097168109668104 
+            text = "level" 
+        intervals [20]:
+            xmin = 36.097168109668104 
+            xmax = 37.21534992784992 
+            text = "rise" 
+        intervals [21]:
+            xmin = 37.21534992784992 
+            xmax = 38.210804473304464 
+            text = "fall" 
+        intervals [22]:
+            xmin = 38.210804473304464 
+            xmax = 39.20625901875901 
+            text = "fall" 
+        intervals [23]:
+            xmin = 39.20625901875901 
+            xmax = 39.83353174603174 
+            text = "ascending" 
+        intervals [24]:
+            xmin = 39.83353174603174 
+            xmax = 50.05204081632653 
+            text = "" 
+    item [6]:
+        class = "TextTier" 
+        name = "speakerB_F0Level" 
+        xmin = 0 
+        xmax = 50.05204081632653 
+        points: size = 23 
+        points [1]:
+            number = 5.814339826839827 
+            mark = "H1" 
+        points [2]:
+            number = 6.2166125541125545 
+            mark = "H2" 
+        points [3]:
+            number = 22.92428159142445 
+            mark = "H2" 
+        points [4]:
+            number = 23.237917955060812 
+            mark = "H1" 
+        points [5]:
+            number = 24.255665842094416 
+            mark = "H2" 
+        points [6]:
+            number = 24.97839311482169 
+            mark = "H1" 
+        points [7]:
+            number = 26.110746237889096 
+            mark = "H1" 
+        points [8]:
+            number = 26.49256441970728 
+            mark = "H1" 
+        points [9]:
+            number = 27.81762265512266 
+            mark = "H1" 
+        points [10]:
+            number = 28.444895382395387 
+            mark = "L1" 
+        points [11]:
+            number = 28.847168109668115 
+            mark = "M" 
+        points [12]:
+            number = 30.285804473304477 
+            mark = "M" 
+        points [13]:
+            number = 31.27444083694084 
+            mark = "L1" 
+        points [14]:
+            number = 32.544895382395374 
+            mark = "H1" 
+        points [15]:
+            number = 32.97444083694083 
+            mark = "L1" 
+        points [16]:
+            number = 33.3221681096681 
+            mark = "L2" 
+        points [17]:
+            number = 34.54944083694083 
+            mark = "M" 
+        points [18]:
+            number = 35.14262265512265 
+            mark = "L1" 
+        points [19]:
+            number = 36.097168109668104 
+            mark = "L1" 
+        points [20]:
+            number = 37.21534992784992 
+            mark = "H2" 
+        points [21]:
+            number = 38.210804473304464 
+            mark = "M" 
+        points [22]:
+            number = 39.20625901875901 
+            mark = "L1" 
+        points [23]:
+            number = 39.83353174603174 
+            mark = "L1" 
+    item [7]:
+        class = "TextTier" 
+        name = "speakerB_F0Value" 
+        xmin = 0 
+        xmax = 50.05204081632653 
+        points: size = 23 
+        points [1]:
+            number = 5.814339826839827 
+            mark = "285.22" 
+        points [2]:
+            number = 6.2166125541125545 
+            mark = "345.19" 
+        points [3]:
+            number = 22.92428159142445 
+            mark = "350.17" 
+        points [4]:
+            number = 23.237917955060812 
+            mark = "286.84" 
+        points [5]:
+            number = 24.255665842094416 
+            mark = "466.40" 
+        points [6]:
+            number = 24.97839311482169 
+            mark = "296.92" 
+        points [7]:
+            number = 26.110746237889096 
+            mark = "286.51" 
+        points [8]:
+            number = 26.49256441970728 
+            mark = "311.17" 
+        points [9]:
+            number = 27.81762265512266 
+            mark = "286.63" 
+        points [10]:
+            number = 28.444895382395387 
+            mark = "199.62" 
+        points [11]:
+            number = 28.847168109668115 
+            mark = "252.18" 
+        points [12]:
+            number = 30.285804473304477 
+            mark = "259.11" 
+        points [13]:
+            number = 31.27444083694084 
+            mark = "201.85" 
+        points [14]:
+            number = 32.544895382395374 
+            mark = "297.38" 
+        points [15]:
+            number = 32.97444083694083 
+            mark = "201.46" 
+        points [16]:
+            number = 33.3221681096681 
+            mark = "171.48" 
+        points [17]:
+            number = 34.54944083694083 
+            mark = "237.50" 
+        points [18]:
+            number = 35.14262265512265 
+            mark = "199.14" 
+        points [19]:
+            number = 36.097168109668104 
+            mark = "224.87" 
+        points [20]:
+            number = 37.21534992784992 
+            mark = "355.73" 
+        points [21]:
+            number = 38.210804473304464 
+            mark = "245.23" 
+        points [22]:
+            number = 39.20625901875901 
+            mark = "200.03" 
+        points [23]:
+            number = 39.83353174603174 
+            mark = "228.98" 
+    item [8]:
+        class = "IntervalTier" 
+        name = "speakerB_Voice" 
+        xmin = 0 
+        xmax = 50.05204081632653 
+        intervals: size = 65 
+        intervals [1]:
+            xmin = 0 
+            xmax = 5.8077605251923385 
+            text = "" 
+        intervals [2]:
+            xmin = 5.8077605251923385 
+            xmax = 6.223717392258242 
+            text = "V" 
+        intervals [3]:
+            xmin = 6.223717392258242 
+            xmax = 22.918381769652314 
+            text = "" 
+        intervals [4]:
+            xmin = 22.918381769652314 
+            xmax = 23.242766891112687 
+            text = "V" 
+        intervals [5]:
+            xmin = 23.242766891112687 
+            xmax = 24.249100757966502 
+            text = "" 
+        intervals [6]:
+            xmin = 24.249100757966502 
+            xmax = 24.406248672096638 
+            text = "V" 
+        intervals [7]:
+            xmin = 24.406248672096638 
+            xmax = 24.528591976917298 
+            text = "U" 
+        intervals [8]:
+            xmin = 24.528591976917298 
+            xmax = 24.984530363340067 
+            text = "V" 
+        intervals [9]:
+            xmin = 24.984530363340067 
+            xmax = 26.104417529154073 
+            text = "" 
+        intervals [10]:
+            xmin = 26.104417529154073 
+            xmax = 26.498220891215226 
+            text = "V" 
+        intervals [11]:
+            xmin = 26.498220891215226 
+            xmax = 27.809982842340112 
+            text = "" 
+        intervals [12]:
+            xmin = 27.809982842340112 
+            xmax = 27.960660903041184 
+            text = "V" 
+        intervals [13]:
+            xmin = 27.960660903041184 
+            xmax = 28.043927840311053 
+            text = "U" 
+        intervals [14]:
+            xmin = 28.043927840311053 
+            xmax = 28.246210312280247 
+            text = "V" 
+        intervals [15]:
+            xmin = 28.246210312280247 
+            xmax = 28.43808798187897 
+            text = "U" 
+        intervals [16]:
+            xmin = 28.43808798187897 
+            xmax = 28.587680516207456 
+            text = "V" 
+        intervals [17]:
+            xmin = 28.587680516207456 
+            xmax = 28.739498750058385 
+            text = "U" 
+        intervals [18]:
+            xmin = 28.739498750058385 
+            xmax = 29.35090015303843 
+            text = "V" 
+        intervals [19]:
+            xmin = 29.35090015303843 
+            xmax = 29.381066794856526 
+            text = "U" 
+        intervals [20]:
+            xmin = 29.381066794856526 
+            xmax = 29.760472758284656 
+            text = "V" 
+        intervals [21]:
+            xmin = 29.760472758284656 
+            xmax = 29.8080465901337 
+            text = "U" 
+        intervals [22]:
+            xmin = 29.8080465901337 
+            xmax = 29.998962449999283 
+            text = "V" 
+        intervals [23]:
+            xmin = 29.998962449999283 
+            xmax = 30.06225430406171 
+            text = "U" 
+        intervals [24]:
+            xmin = 30.06225430406171 
+            xmax = 30.291750681907292 
+            text = "V" 
+        intervals [25]:
+            xmin = 30.291750681907292 
+            xmax = 30.318841113624106 
+            text = "U" 
+        intervals [26]:
+            xmin = 30.318841113624106 
+            xmax = 30.937852148351862 
+            text = "V" 
+        intervals [27]:
+            xmin = 30.937852148351862 
+            xmax = 31.007765453770862 
+            text = "U" 
+        intervals [28]:
+            xmin = 31.007765453770862 
+            xmax = 31.28043195489565 
+            text = "V" 
+        intervals [29]:
+            xmin = 31.28043195489565 
+            xmax = 32.53975479965205 
+            text = "" 
+        intervals [30]:
+            xmin = 32.53975479965205 
+            xmax = 32.98024378803353 
+            text = "V" 
+        intervals [31]:
+            xmin = 32.98024378803353 
+            xmax = 33.001244607321446 
+            text = "U" 
+        intervals [32]:
+            xmin = 33.001244607321446 
+            xmax = 33.32436796585264 
+            text = "V" 
+        intervals [33]:
+            xmin = 33.32436796585264 
+            xmax = 33.62159978275232 
+            text = "U" 
+        intervals [34]:
+            xmin = 33.62159978275232 
+            xmax = 34.139041119466675 
+            text = "V" 
+        intervals [35]:
+            xmin = 34.139041119466675 
+            xmax = 34.248317869649014 
+            text = "U" 
+        intervals [36]:
+            xmin = 34.248317869649014 
+            xmax = 34.400252434946715 
+            text = "V" 
+        intervals [37]:
+            xmin = 34.400252434946715 
+            xmax = 34.54169456733449 
+            text = "U" 
+        intervals [38]:
+            xmin = 34.54169456733449 
+            xmax = 34.751495315310954 
+            text = "V" 
+        intervals [39]:
+            xmin = 34.751495315310954 
+            xmax = 34.81688779728322 
+            text = "U" 
+        intervals [40]:
+            xmin = 34.81688779728322 
+            xmax = 35.365618509304355 
+            text = "V" 
+        intervals [41]:
+            xmin = 35.365618509304355 
+            xmax = 35.38742366896471 
+            text = "U" 
+        intervals [42]:
+            xmin = 35.38742366896471 
+            xmax = 35.5562586260706 
+            text = "V" 
+        intervals [43]:
+            xmin = 35.5562586260706 
+            xmax = 35.61934112481238 
+            text = "U" 
+        intervals [44]:
+            xmin = 35.61934112481238 
+            xmax = 35.70141952075014 
+            text = "V" 
+        intervals [45]:
+            xmin = 35.70141952075014 
+            xmax = 35.72390708386132 
+            text = "U" 
+        intervals [46]:
+            xmin = 35.72390708386132 
+            xmax = 35.84644015964985 
+            text = "V" 
+        intervals [47]:
+            xmin = 35.84644015964985 
+            xmax = 35.891478311334446 
+            text = "U" 
+        intervals [48]:
+            xmin = 35.891478311334446 
+            xmax = 36.82828750783848 
+            text = "V" 
+        intervals [49]:
+            xmin = 36.82828750783848 
+            xmax = 36.86805868712505 
+            text = "U" 
+        intervals [50]:
+            xmin = 36.86805868712505 
+            xmax = 37.222897569404196 
+            text = "V" 
+        intervals [51]:
+            xmin = 37.222897569404196 
+            xmax = 37.29756871332551 
+            text = "U" 
+        intervals [52]:
+            xmin = 37.29756871332551 
+            xmax = 37.51442446062116 
+            text = "V" 
+        intervals [53]:
+            xmin = 37.51442446062116 
+            xmax = 37.529537059148275 
+            text = "U" 
+        intervals [54]:
+            xmin = 37.529537059148275 
+            xmax = 37.76215680554594 
+            text = "V" 
+        intervals [55]:
+            xmin = 37.76215680554594 
+            xmax = 37.79386799898248 
+            text = "U" 
+        intervals [56]:
+            xmin = 37.79386799898248 
+            xmax = 37.909617325062406 
+            text = "V" 
+        intervals [57]:
+            xmin = 37.909617325062406 
+            xmax = 38.042266491312986 
+            text = "U" 
+        intervals [58]:
+            xmin = 38.042266491312986 
+            xmax = 39.089451315233035 
+            text = "V" 
+        intervals [59]:
+            xmin = 39.089451315233035 
+            xmax = 39.19929746037565 
+            text = "U" 
+        intervals [60]:
+            xmin = 39.19929746037565 
+            xmax = 39.330300132901904 
+            text = "V" 
+        intervals [61]:
+            xmin = 39.330300132901904 
+            xmax = 39.39037021398506 
+            text = "U" 
+        intervals [62]:
+            xmin = 39.39037021398506 
+            xmax = 39.63990294351615 
+            text = "V" 
+        intervals [63]:
+            xmin = 39.63990294351615 
+            xmax = 39.66954706357479 
+            text = "U" 
+        intervals [64]:
+            xmin = 39.66954706357479 
+            xmax = 39.84036421871413 
+            text = "V" 
+        intervals [65]:
+            xmin = 39.84036421871413 
+            xmax = 50.05204081632653 
+            text = "" 

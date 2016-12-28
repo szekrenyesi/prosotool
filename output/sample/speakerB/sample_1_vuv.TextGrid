@@ -1,0 +1,26 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 5.797549098974028 
+xmax = 6.233394469382998 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "vuv" 
+        xmin = 5.797549098974028 
+        xmax = 6.233394469382998 
+        intervals: size = 3 
+        intervals [1]:
+            xmin = 5.797549098974028 
+            xmax = 5.8077605251923385 
+            text = "U" 
+        intervals [2]:
+            xmin = 5.8077605251923385 
+            xmax = 6.223717392258242 
+            text = "V" 
+        intervals [3]:
+            xmin = 6.223717392258242 
+            xmax = 6.233394469382998 
+            text = "U" 

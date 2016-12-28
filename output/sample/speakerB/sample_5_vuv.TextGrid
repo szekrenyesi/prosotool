@@ -1,0 +1,90 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 27.802031746031748 
+xmax = 31.290031746031747 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "vuv" 
+        xmin = 27.802031746031748 
+        xmax = 31.290031746031747 
+        intervals: size = 19 
+        intervals [1]:
+            xmin = 27.802031746031748 
+            xmax = 27.809982842340112 
+            text = "U" 
+        intervals [2]:
+            xmin = 27.809982842340112 
+            xmax = 27.960660903041184 
+            text = "V" 
+        intervals [3]:
+            xmin = 27.960660903041184 
+            xmax = 28.043927840311053 
+            text = "U" 
+        intervals [4]:
+            xmin = 28.043927840311053 
+            xmax = 28.246210312280247 
+            text = "V" 
+        intervals [5]:
+            xmin = 28.246210312280247 
+            xmax = 28.43808798187897 
+            text = "U" 
+        intervals [6]:
+            xmin = 28.43808798187897 
+            xmax = 28.587680516207456 
+            text = "V" 
+        intervals [7]:
+            xmin = 28.587680516207456 
+            xmax = 28.739498750058385 
+            text = "U" 
+        intervals [8]:
+            xmin = 28.739498750058385 
+            xmax = 29.35090015303843 
+            text = "V" 
+        intervals [9]:
+            xmin = 29.35090015303843 
+            xmax = 29.381066794856526 
+            text = "U" 
+        intervals [10]:
+            xmin = 29.381066794856526 
+            xmax = 29.760472758284656 
+            text = "V" 
+        intervals [11]:
+            xmin = 29.760472758284656 
+            xmax = 29.8080465901337 
+            text = "U" 
+        intervals [12]:
+            xmin = 29.8080465901337 
+            xmax = 29.998962449999283 
+            text = "V" 
+        intervals [13]:
+            xmin = 29.998962449999283 
+            xmax = 30.06225430406171 
+            text = "U" 
+        intervals [14]:
+            xmin = 30.06225430406171 
+            xmax = 30.291750681907292 
+            text = "V" 
+        intervals [15]:
+            xmin = 30.291750681907292 
+            xmax = 30.318841113624106 
+            text = "U" 
+        intervals [16]:
+            xmin = 30.318841113624106 
+            xmax = 30.937852148351862 
+            text = "V" 
+        intervals [17]:
+            xmin = 30.937852148351862 
+            xmax = 31.007765453770862 
+            text = "U" 
+        intervals [18]:
+            xmin = 31.007765453770862 
+            xmax = 31.28043195489565 
+            text = "V" 
+        intervals [19]:
+            xmin = 31.28043195489565 
+            xmax = 31.290031746031747 
+            text = "U" 
