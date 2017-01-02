@@ -32,5 +32,5 @@ Praat prosotool.praat INPUT STYLIZATION SMOOTHING PITCH_EXTRACTION OPERATING_SYS
 
 ##Example
 ```
-Praat prosotool.praat input 2 1.5 dynamic windows
+./Praat prosotool.praat input 2 1.5 dynamic unix
 ```
