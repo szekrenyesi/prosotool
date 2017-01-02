@@ -18,4 +18,6 @@ ProsoTool is a language independent algorithm implemented as a Praat script for 
 
 ##Usage
 
+```
 Praat prosotool.praat INPUT_DIRECTIRY_PATH SCALE_OF_STYLISATION SCALE_OF_SMOOTHING PITCH_EXTRACTION_METHOD OPERATING_SYSTEM 
+```
