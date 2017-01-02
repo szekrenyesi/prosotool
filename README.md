@@ -4,3 +4,8 @@ ProsoTool is a language independent algorithm implemented as a Praat script for 
 ## Requirements
 
 * Praat 6.0.13 or later
+
+## Input
+
+* The speech sound file in WAV format (sample.wav)
+* The annotation of speaker change in Praat TextGrid format (sample.TextGrid). The speakers must be represented in different tiers.
