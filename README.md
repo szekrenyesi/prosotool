@@ -21,10 +21,7 @@ ProsoTool is a language independent algorithm implemented as a Praat script for 
 ```
 Praat prosotool.praat INPUT STYLIZATION SMOOTHING PITCH_EXTRACTION OPERATING_SYSTEM 
 ```
-##Example
-```
-Praat prosotool.praat input 2 1.5 dynamic windows
-```
+
 ##Options
 
 * INPUT: The path of input directiry
@@ -32,3 +29,8 @@ Praat prosotool.praat input 2 1.5 dynamic windows
 * SMOOTHING: The scale of smoothing. As small as strong.
 * PITCH_EXTRACTION: The method of pitch extraction: standard (fixed parameters) or dynamic
 * OPERATING_SYSTEM: windows or unix
+
+##Example
+```
+Praat prosotool.praat input 2 1.5 dynamic windows
+```
