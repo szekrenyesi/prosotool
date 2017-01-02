@@ -27,7 +27,7 @@ Praat prosotool.praat INPUT STYLIZATION SMOOTHING PITCH_EXTRACTION OPERATING_SYS
 * INPUT: The path of input directory
 * STYLIZATION: The scale of stilization in semitones (integer number). The langer number results stronger stylization.
 * SMOOTHING: The scale of smoothing (real number). The smaller number results stronger smoothing.
-* PITCH_EXTRACTION: The method of pitch extraction: "standard" (with fixed parameters) or "dynamic" (speaker-depedent)
+* PITCH_EXTRACTION: The method of pitch extraction: "standard" (with fixed parameters) or "dynamic" (speaker-dependent)
 * OPERATING_SYSTEM: The type of running environment: "windows" or "unix"
 
 ##Example
