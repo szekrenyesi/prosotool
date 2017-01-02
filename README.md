@@ -3,4 +3,4 @@ ProsoTool is a language independent algorithm implemented as a Praat script for 
 
 ## Requirements
 
-Praat 6.0.13 or later
+* Praat 6.0.13 or later
