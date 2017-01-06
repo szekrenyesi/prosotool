@@ -13,9 +13,9 @@ ProsoTool is a language independent algorithm implemented as a Praat script for 
 ## Output
 * Format: Praat TextGrid
 * Content:
-** The type of intonation movement (rise, fall, descending, ascending, level)
-** The relative position of movement (as point to point vector) in the individual vocal range of the speaker
-** The above information expressed in Hertz
+- The type of intonation movement (rise, fall, descending, ascending, level)
+- The relative position of movement (as point to point vector) in the individual vocal range of the speaker
+- The above information expressed in Hertz
 
 ##Usage
 
