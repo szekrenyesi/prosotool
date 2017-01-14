@@ -20,7 +20,7 @@ ProsoTool is a language independent algorithm implemented as a Praat script for 
 ##Usage
 
 ```
-Praat prosotool.praat INPUT STYLIZATION SMOOTHING PITCH_EXTRACTION OPERATING_SYSTEM 
+Praat prosotool.praat <INPUT> <STYLIZATION> <SMOOTHING> <PITCH_EXTRACTION> <OPERATING_SYSTEM> 
 ```
 
 ##Options
