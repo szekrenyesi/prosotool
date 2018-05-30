@@ -17,13 +17,13 @@ ProsoTool is a language independent algorithm implemented as a Praat script for 
 * F0Level: The relative position of movements (as point to point vector) in the individual vocal range of the speaker
 * F0Value: The above information expressed in Hertz
 
-##Usage
+## Usage
 
 ```
 Praat prosotool.praat <INPUT> <STYLIZATION> <SMOOTHING> <PITCH_EXTRACTION> <OPERATING_SYSTEM> 
 ```
 
-##Options
+## Options
 
 * INPUT: The path of input directory
 * STYLIZATION: The scale of stilization in semitones (integer number). The langer number results stronger stylization.
@@ -31,10 +31,10 @@ Praat prosotool.praat <INPUT> <STYLIZATION> <SMOOTHING> <PITCH_EXTRACTION> <OPER
 * PITCH_EXTRACTION: The method of pitch extraction: "standard" (with fixed parameters) or "dynamic" (speaker-dependent)
 * OPERATING_SYSTEM: The type of running environment: "windows" or "unix"
 
-##Example
+## Example
 ```
 ./Praat prosotool.praat input 2 1.5 dynamic unix
 ```
-##Citation
+## Citation
 
 Please, cite [this](http://ieeexplore.ieee.org/document/7390606/) article on ProsoTool and [here](http://www.fon.hum.uva.nl/praat/manual/FAQ__How_to_cite_Praat.html) is the way how to cite Praat.
